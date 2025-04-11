@@ -1,3 +1,4 @@
+* На сайте From Reality to GTA и From GTA to Reality перепутаны местами;)
 ---
 title: Trip To GTA
 emoji: 🐠
